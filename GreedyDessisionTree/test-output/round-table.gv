@@ -1,0 +1,344 @@
+// Decision Tree
+digraph {
+	graph [rankdir=TB]
+	216 [label="A1
+Entropy: 0.8690
+IG: 0.0785
+Good:357
+Bad:146"]
+	217 [label="A3
+Entropy: 0.5601
+IG: 0.0206
+Good:199
+Bad:30"]
+	218 [label="A5
+Entropy: 0.8691
+IG: 0.2670
+Good:22
+Bad:9"]
+	219 [label="A7
+Entropy: 0.6912
+IG: 0.2237
+Good:22
+Bad:5"]
+	220 [label="A2
+Entropy: 0.9852
+IG: 0.5216
+Good:3
+Bad:4"]
+	L221 [label="B
+Entropy: 0
+Good:0
+Bad:3"]
+	220 -> L221
+	L222 [label="G
+Entropy: 0.8112
+Good:3
+Bad:1"]
+	220 -> L222
+	{
+		rank=same
+		L221
+		L222
+	}
+	219 -> 220
+	223 [label="A6
+Entropy: 0.2863
+IG: 0.1486
+Good:19
+Bad:1"]
+	L224 [label="G
+Entropy: 0
+Good:17
+Bad:0"]
+	223 -> L224
+	L225 [label="G
+Entropy: 0.9182
+Good:2
+Bad:1"]
+	223 -> L225
+	{
+		rank=same
+		L224
+		L225
+	}
+	219 -> 223
+	{
+		rank=same
+		220
+		223
+	}
+	218 -> 219
+	L226 [label="B
+Entropy: 0
+Good:0
+Bad:4"]
+	218 -> L226
+	{
+		rank=same
+		219
+		L226
+	}
+	217 -> 218
+	227 [label="A2
+Entropy: 0.4879
+IG: 0.0267
+Good:177
+Bad:21"]
+	L228 [label="G
+Entropy: 0
+Good:30
+Bad:0"]
+	227 -> L228
+	229 [label="A4
+Entropy: 0.5435
+IG: 0.0160
+Good:147
+Bad:21"]
+	230 [label="A5
+Entropy: 0.4712
+IG: 0.0128
+Good:125
+Bad:14"]
+	L231 [label="G
+Entropy: 0.6409
+Good:36
+Bad:7"]
+	230 -> L231
+	L232 [label="G
+Entropy: 0.3767
+Good:89
+Bad:7"]
+	230 -> L232
+	{
+		rank=same
+		L231
+		L232
+	}
+	229 -> 230
+	233 [label="A6
+Entropy: 0.7973
+IG: 0.0691
+Good:22
+Bad:7"]
+	L234 [label="G
+Entropy: 0.6098
+Good:17
+Bad:3"]
+	233 -> L234
+	L235 [label="G
+Entropy: 0.9910
+Good:5
+Bad:4"]
+	233 -> L235
+	{
+		rank=same
+		L234
+		L235
+	}
+	229 -> 233
+	{
+		rank=same
+		230
+		233
+	}
+	227 -> 229
+	{
+		rank=same
+		L228
+		229
+	}
+	217 -> 227
+	{
+		rank=same
+		218
+		227
+	}
+	216 -> 217
+	236 [label="A3
+Entropy: 0.9829
+IG: 0.0375
+Good:158
+Bad:116"]
+	237 [label="A6
+Entropy: 0.9985
+IG: 0.0392
+Good:115
+Bad:105"]
+	238 [label="A2
+Entropy: 0.9629
+IG: 0.0369
+Good:36
+Bad:57"]
+	239 [label="A7
+Entropy: 0.9709
+IG: 0.1444
+Good:12
+Bad:8"]
+	L240 [label="B
+Entropy: 0
+Good:0
+Bad:2"]
+	239 -> L240
+	L241 [label="G
+Entropy: 0.9182
+Good:12
+Bad:6"]
+	239 -> L241
+	{
+		rank=same
+		L240
+		L241
+	}
+	238 -> 239
+	242 [label="A4
+Entropy: 0.9136
+IG: 0.0300
+Good:24
+Bad:49"]
+	L243 [label="B
+Entropy: 0.9528
+Good:22
+Bad:37"]
+	242 -> L243
+	L244 [label="B
+Entropy: 0.5916
+Good:2
+Bad:12"]
+	242 -> L244
+	{
+		rank=same
+		L243
+		L244
+	}
+	238 -> 242
+	{
+		rank=same
+		239
+		242
+	}
+	237 -> 238
+	245 [label="A7
+Entropy: 0.9565
+IG: 0.0224
+Good:79
+Bad:48"]
+	L246 [label="B
+Entropy: 0
+Good:0
+Bad:2"]
+	245 -> L246
+	247 [label="A5
+Entropy: 0.9491
+IG: 0.0242
+Good:79
+Bad:46"]
+	L248 [label="G
+Entropy: 0.8112
+Good:33
+Bad:11"]
+	247 -> L248
+	L249 [label="G
+Entropy: 0.9866
+Good:46
+Bad:35"]
+	247 -> L249
+	{
+		rank=same
+		L248
+		L249
+	}
+	245 -> 247
+	{
+		rank=same
+		L246
+		247
+	}
+	237 -> 245
+	{
+		rank=same
+		238
+		245
+	}
+	236 -> 237
+	250 [label="A2
+Entropy: 0.7292
+IG: 0.0840
+Good:43
+Bad:11"]
+	L251 [label="G
+Entropy: 0
+Good:12
+Bad:0"]
+	250 -> L251
+	252 [label="A5
+Entropy: 0.8296
+IG: 0.0790
+Good:31
+Bad:11"]
+	253 [label="A7
+Entropy: 0.3712
+IG: 0.0477
+Good:13
+Bad:1"]
+	L254 [label="G
+Entropy: 0
+Good:5
+Bad:0"]
+	253 -> L254
+	L255 [label="G
+Entropy: 0.5032
+Good:8
+Bad:1"]
+	253 -> L255
+	{
+		rank=same
+		L254
+		L255
+	}
+	252 -> 253
+	256 [label="A4
+Entropy: 0.9402
+IG: 0.0733
+Good:18
+Bad:10"]
+	L257 [label="G
+Entropy: 0.9709
+Good:15
+Bad:10"]
+	256 -> L257
+	L258 [label="G
+Entropy: 0
+Good:3
+Bad:0"]
+	256 -> L258
+	{
+		rank=same
+		L257
+		L258
+	}
+	252 -> 256
+	{
+		rank=same
+		253
+		256
+	}
+	250 -> 252
+	{
+		rank=same
+		L251
+		252
+	}
+	236 -> 250
+	{
+		rank=same
+		237
+		250
+	}
+	216 -> 236
+	{
+		rank=same
+		217
+		236
+	}
+}

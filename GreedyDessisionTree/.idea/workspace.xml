@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63bef17a-fbda-4770-9be0-23dfd04bddac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WTds8EGpQnot4INqLm5XicCH0d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ex4.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eylon\PycharmProjects\HW4_ML_EylonMizrahi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex4 (1)">
+    <configuration name="backend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW4_ML_EylonMizrahi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/envs/HW3_ML_EylonMizrahi/Lib/site-packages/graphviz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/envs/HW3_ML_EylonMizrahi/Lib/site-packages/graphviz/backend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW4_ML_EylonMizrahi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW4_ML_EylonMizrahi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\eylon\PycharmProjects\HW4_ML_EylonMizrahi\ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW4_ML_EylonMizrahi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex41.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW4_ML_EylonMizrahi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\eylon\PycharmProjects\HW4_ML_EylonMizrahi\ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex4 (1)" />
+        <item itemvalue="Python.ex41" />
+        <item itemvalue="Python.ex4 (1)" />
+        <item itemvalue="Python.backend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63bef17a-fbda-4770-9be0-23dfd04bddac" name="Default Changelist" comment="" />
+      <created>1579177722090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579177722090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582624166032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582624166032" />
+    <state x="591" y="329" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1579597126634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="329" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1536.824@0.0.1536.824" timestamp="1579597126634" />
+    <state x="619" y="313" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1582626354905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="313" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1582626354905" />
+    <state width="992" height="466" key="DebuggerActiveHint" timestamp="1582635435136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="992" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1582635435136" />
+    <state x="385" y="147" key="FileChooserDialogImpl" timestamp="1579587652765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="147" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579587652765" />
+    <state width="1537" height="143" key="GridCell.Tab.0.bottom" timestamp="1582635908537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582635908537" />
+    <state width="1537" height="143" key="GridCell.Tab.0.center" timestamp="1582635908536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582635908536" />
+    <state width="1537" height="143" key="GridCell.Tab.0.left" timestamp="1582635908536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582635908536" />
+    <state width="1537" height="143" key="GridCell.Tab.0.right" timestamp="1582635908537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582635908537" />
+    <state width="1537" height="184" key="GridCell.Tab.1.bottom" timestamp="1582635908533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="184" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582635908533" />
+    <state width="1537" height="184" key="GridCell.Tab.1.center" timestamp="1582635908532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="184" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582635908532" />
+    <state width="1537" height="184" key="GridCell.Tab.1.left" timestamp="1582635908532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="184" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582635908532" />
+    <state width="1537" height="184" key="GridCell.Tab.1.right" timestamp="1582635908533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="184" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582635908533" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1579179503277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579179503277" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582634698532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582634698532" />
+    <state x="359" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579597573195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="359" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1579597573195" />
+    <state x="474" y="46" width="791" height="732" key="find.popup" timestamp="1579591136802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="46" width="791" height="732" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1579591136802" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1579588782252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579588782252" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="tree" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
